@@ -12,8 +12,8 @@ The sketch represents a client that sends the data through a socket, getting hel
   
    + Running the server:
   
-      ![Server running](https://github.com/JasterV/Shared-Drawing-NodeJS/blob/master/nodejs_example.png)
+        ![Server running](https://github.com/JasterV/Shared-Drawing-NodeJS/blob/master/nodejs_example.png)
   
    + Clients example:
   
-      ![The clients running](https://media.giphy.com/media/jRwGOND98wTvRZayIB/giphy.gif)
+        ![The clients running](https://media.giphy.com/media/jRwGOND98wTvRZayIB/giphy.gif)
