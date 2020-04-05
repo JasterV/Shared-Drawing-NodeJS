@@ -12,7 +12,7 @@ The sketch represents a client that sends the data through a socket, getting hel
   
   + Running the server:
   
-    ![Server running](https://imgur.com/a/eSoyL4C)
+    ![Server running](https://imgur.com/xvjpgP5)
   
   + Clients example:
   
