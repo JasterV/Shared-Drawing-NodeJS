@@ -14,6 +14,6 @@ The sketch represents a client that sends the data through a socket, getting hel
   
         ![Server running](https://github.com/JasterV/Shared-Drawing-NodeJS/blob/master/nodejs_example.png)
   
-   + Clients example:
+   + Running clients on port 3000:
   
         ![The clients running](https://media.giphy.com/media/jRwGOND98wTvRZayIB/giphy.gif)
