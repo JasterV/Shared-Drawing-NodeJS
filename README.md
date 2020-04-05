@@ -12,7 +12,7 @@ The sketch represents a client that sends the data through a socket, getting hel
   
   + Running the server:
   
-    ![Server running](https://drive.google.com/file/d/1CUdYAEnt4ZyjO7K-qCBY-mYOo9J9tm5X/view?usp=sharing)
+    ![Server running](https://github.com/JasterV/Shared-Drawing-NodeJS/blob/master/nodejs_example.png)
   
   + Clients example:
   
