@@ -1,5 +1,7 @@
 # NODE JS Integration for a simple p5.js sketch
 
+THE ORIGINAL IDEA OF THE PROJECT IS FROM THE CODING [TRAIN YOUTUBE CHANNEL](https://www.youtube.com/user/shiffman)
+
 I wanted to start to learn javascript so i thought the best way to do it could be by building stuff with p5.js, a great graphics development tool for the Web!
 
 So i did a simple sketch that paints the canvas when you press the mouse, and then the X,Y coords are send to a Node.js server implemented easily with Express.
