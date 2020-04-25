@@ -2,9 +2,9 @@
 
 THE ORIGINAL IDEA OF THE PROJECT IS FROM [THE CODING TRAIN](https://www.youtube.com/user/shiffman)
 
-I wanted to start to learn javascript so i thought the best way to do it could be by building stuff with p5.js, a great graphics development tool for the Web!
+I wanted to start learning javascript so I thought the best way to do it could be by building stuff with p5.js, a great graphics development tool for the Web!
 
-So i did a simple sketch that paints the canvas when you press the mouse, and then the X,Y coords are send to a Node.js server implemented easily with Express.
+So I did a simple sketch that paints the canvas when you press the mouse, and then the X,Y coords are send to a Node.js server implemented easily with Express.
 
 The sketch represents a client that sends the data through a socket, getting help of the [socket.io](https://socket.io/) library while the server waits for connections and prepares to resend the data it receives.
 
